@@ -1,0 +1,48 @@
+_repo: King-Candaules_22660
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gaultier, Theophile
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: Take a trip into the distant past in this classic work of historical
+  fiction from French writer and thinker Theophile Gautier. This novelized account
+  of the life of the ancient ruler plays up the action -- and the despot's rather
+  unusual romantic proclivities.
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: King Candaules
+url: http://www.gutenberg.org/ebooks/22660
